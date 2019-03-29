@@ -1,4 +1,4 @@
-## 检测类型
+# 检测类型
 
 ```js
   var _toString = Object.prototype.toString;
