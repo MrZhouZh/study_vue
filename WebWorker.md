@@ -1,6 +1,6 @@
 # Web Worker
 
-资料参考[阮一峰老师](!http://www.ruanyifeng.com/blog/2018/07/web-worker.html)
+资料参考[阮一峰老师](http://www.ruanyifeng.com/blog/2018/07/web-worker.html)
 
 ## 前言
 
