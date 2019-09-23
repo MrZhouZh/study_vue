@@ -60,14 +60,14 @@ self.addEventListener('message', function(e) {
   var data = e.data
   switch (data.cmd) {
     case 'start':
-      self.postMessage('WORKER STARTED: ', data.msg)
+      self.postMessage('WORKER STARTED: ' + data.msg)
       break;
     case 'stop':
-      self.postMessage('WORKER STOPED: ', data.msg)
+      self.postMessage('WORKER STOPED: ' + data.msg)
       self.close()
       break;
     default:
-      self.postMessage('UnKnown command: ', data.msg)
+      self.postMessage('UnKnown command: ' + data.msg)
   }
 }, false)
 
