@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### 目录
 
-[WebWorker](/WebWorker)
+[WebWorker](https://github.com/MrZhouZh/study_vue/tree/master/WebWorker)
